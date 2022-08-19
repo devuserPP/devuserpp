@@ -1,3 +1,6 @@
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devuserpp.visitor-badge&left_color=red&right_color=green) 
+
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey Everyone!🕹️&animation=fadeIn&fontSize=90)
 ### Hi there 👋
 
