@@ -1,6 +1,8 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devuserpp.visitor-badge&left_color=red&right_color=green) 
 
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?devuserpp=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey Everyone!🕹️&animation=fadeIn&fontSize=90)
 ### Hi there 👋
 
