@@ -17,10 +17,10 @@
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+
 
 ## DevOps tools 
 <br />
@@ -30,8 +30,8 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/terraformio/terraformio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
 
 
 
