@@ -11,29 +11,36 @@
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devuserpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-
-
-
-
-
-
-
 <!--
 **devuserPP/devuserpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
 
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlinlang-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/swift/swift-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-ar21.svg"></code>
 
-
+## DevOps tools 
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/terraformio/terraformio-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/argoprojio/elasticco_kibana/elasticco_kibana-ar21.svg"></code>
+
+
+
+
+
+
+
+
+
           
 Here are some ideas to get you started:
 
