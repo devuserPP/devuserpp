@@ -1,7 +1,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devuserpp.visitor-badge&left_color=red&right_color=green) 
 <div align="center">
-  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" img width="110%" height="10%" />
+  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" img width="110%" height="10" />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devuserpp&theme=dark&background=000000)](https://git.io/streak-stats)
