@@ -4,7 +4,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devuserpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <div align="center">
-  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="600" height="300"/>
+  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" width="900" height="300"/>
 </div>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey Everyone!🕹️&animation=fadeIn&fontSize=90)
