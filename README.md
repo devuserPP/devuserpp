@@ -14,17 +14,16 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hey Everyone!🕹️&animation=fadeIn&fontSize=90)
-### Hi there 👋
+
 
 
 
 <!--
 **devuserPP/devuserpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"/>
 
-<code><img width="10%" src="[/www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg)"></code>
+
+<code><img width="10%" src="www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
