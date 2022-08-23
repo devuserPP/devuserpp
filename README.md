@@ -6,7 +6,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devuserpp&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devuserpp&layout=compact&theme=vision-friendly-dark)](https://github.com/devuserpp/github-readme-stats)
+
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devuserpp&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 
