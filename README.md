@@ -1,7 +1,7 @@
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=devuserpp.visitor-badge&left_color=red&right_color=green) 
 <div align="center">
-  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" img width="100%" height="100" />
+  <img src="https://media1.giphy.com/media/lbcLMX9B6sTsGjUmS3/giphy.gif" img width="110%"  />
 </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devuserpp&theme=dark&background=000000)](https://git.io/streak-stats)
@@ -23,7 +23,7 @@
 -->
 
 
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
